@@ -1,7 +1,7 @@
 # PESU-IO
 Notes and codes from PESU IO 
 
-#CLASS 1
+<b><u>CLASS 1</u></b>
 
 <b>To solve a problem using data science:</b>
 1. Take an actual problem
@@ -14,11 +14,11 @@ Notes and codes from PESU IO
 Statistical solutions are probabilities and patterns in data found by using various techniques and methods to analyze the data presented.
 The actual solution is then found by taking the statistical data into account and creating a feasible solution that can be implemented in the real world.
 
-- How do we know if the model we created is good?
+<b>How do we know if the model we created is good?</b>
   
 To know if the model we created is good we split our data 70-30 (or 80-20 depending on the situation). We use the 70 percent of data to actual create our model and use the remaining 30 percentage of the data to test our model to see if it any good.
 
-- How do we evaluate the accuracy of a predictive model?
+<b>How do we evaluate the accuracy of a predictive model?</b>
   
 We use perfomance metrics for this purpose. Two performance metrics used a lot are:
 1. MAPE -Mean Absolute Percentage Error
