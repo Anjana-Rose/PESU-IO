@@ -2,6 +2,7 @@
 Notes and codes from PESU IO 
 
 #CLASS 1
+
 To solve a problem using data science:
 
 1. Take an actual problem
@@ -9,14 +10,20 @@ To solve a problem using data science:
 3. Solve the said statistical problem to get a statistical solution
 4. Use the statistical solution to formulate an actual solution
 
+
+
 The statistical solution is differnent from the actual solution:
 
 Statistical solutions are probabilities and patterns in data found by using various techniques and methods to analyze the data presented.
 The actual solution is then found by taking the statistical data into account and creating a feasible solution that can be implemented in the real world.
 
+
+
 How do we know if the model we created is good?
 
 To know if the model we created is good we split our data 70-30 (or 80-20 depending on the situation). We use the 70 percent of data to actual create our model and use the remaining 30 percentage of the data to test our model to see if it any good.
+
+
 
 How do we evaluate the accuracy of a predictive model?
 
