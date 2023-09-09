@@ -9,8 +9,7 @@ Notes and codes from PESU IO
 3. Solve the said statistical problem to get a statistical solution
 4. Use the statistical solution to formulate an actual solution
 
-
-- The statistical solution is differnent from the actual solution:
+<b>The statistical solution is differnent from the actual solution:</b>
 
 Statistical solutions are probabilities and patterns in data found by using various techniques and methods to analyze the data presented.
 The actual solution is then found by taking the statistical data into account and creating a feasible solution that can be implemented in the real world.
