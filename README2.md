@@ -26,7 +26,6 @@ GAP ANALYSIS
 10. marketting of the game
 
 BUSINESS ACTIONS AND OUTCOMES
-
--improve accessibility by allowing the user to switch between multiple devices
--mobile versions of the game
--improve marketting to give a unique image to the game
+- improve accessibility by allowing the user to switch between multiple devices
+- mobile versions of the game
+- improve marketting to give a unique image to the game
